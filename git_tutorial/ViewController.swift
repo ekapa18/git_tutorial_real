@@ -19,5 +19,9 @@ class ViewController: UIViewController {
         print("Nothing in my brain!")
     }
     
+    private func eleneChanges() {
+        print("This change gonna win over lasha's change! just watch!")
+    }
+    
 }
 
