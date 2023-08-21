@@ -19,5 +19,8 @@ class ViewController: UIViewController {
         print("Nothing in my brain!")
     }
     
+    private func lashasFunc() {
+        print("I am a table")
+    }
 }
 
