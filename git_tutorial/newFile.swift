@@ -7,5 +7,10 @@
 
 import Foundation
 struct NewFile {
-    var file: String
+    var file: Bool
+    let name: Int
+    
+    mutating func nextVersion()  {
+        file.toggle()
+    }
 }
