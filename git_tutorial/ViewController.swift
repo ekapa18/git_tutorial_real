@@ -19,8 +19,13 @@ class ViewController: UIViewController {
         print("Nothing in my brain!")
     }
     
+    
     private func lashasFunc() {
         print("I am a table")
+    }
+    
+    private func eleneChanges() {
+        print("This change gonna win over lasha's change! just watch!")
     }
 }
 
